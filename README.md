@@ -1,6 +1,6 @@
 # QUASI88
 
-This is the [QUASI88]() emulator for NEC PC8801 computers by S. Fukunaga,
+This is the [QUASI88](https://www.eonet.ne.jp/~showtime/quasi88/) emulator for NEC PC8801 computers by S. Fukunaga,
 version 0.6.4.
 
 The only difference between the source files in this repository and 
